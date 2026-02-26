@@ -18,8 +18,8 @@ Currently, I’m focused on sharpening my skills in Java, Python, .NET, and web 
 
 - **Languages & Frameworks:**  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) 
-  ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5) 
-  ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)  
+  ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html) 
+  ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css)  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap)
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
