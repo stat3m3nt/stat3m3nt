@@ -26,6 +26,7 @@ Currently, I’m focused on sharpening my skills in Java, Python, .NET, and web 
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-red?logo=java)
   ![Python](https://img.shields.io/badge/-Python-yellowgreen?logo=python)
+  ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php)
 
 - **Platforms & Tools:**  
   ![React (learning)](https://img.shields.io/badge/-React-informational?logo=react)  
